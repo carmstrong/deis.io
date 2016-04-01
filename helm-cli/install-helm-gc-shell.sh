@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# To be use with Google Cloud Shell VM, as helm's install.sh does not donwload files from bintray
+
 # Invoking this script:
 #
 # curl https://deis.io/helm-cli/install-v2-gc-shell.sh | bash
